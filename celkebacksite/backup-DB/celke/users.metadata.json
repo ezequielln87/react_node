@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"celke.users"}],"uuid":"db69dbbd83d14efebfa81507a6ff9316"}

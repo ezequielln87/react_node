@@ -1,0 +1,1 @@
+export const api = (process.env.PUBLIC_URL) ? "https://celke.net.br/adm" : "http://localhost:8080";
