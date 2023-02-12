@@ -22,7 +22,7 @@
     "yup": "^0.28.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4",
+    "nodemon": "^2.0.20",
     "sucrase": "^3.12.1"
   }
 }
